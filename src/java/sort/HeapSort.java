@@ -20,7 +20,6 @@ public class HeapSort {
                 child=2*child+1;
         }
         array[parent]=temp;
-
     }
     public  void getHeap(int[] list) {
         for (int i = list.length  / 2; i >= 0; i--) {

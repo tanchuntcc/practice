@@ -43,12 +43,15 @@ public class CountContinuous {
                 sum = addNum(i, n);
                 if (sum == num) {
                     while (i>=n){
-                        System.out.print(n);
+                        System.out.print(n+",");
                         n++;
                     }
+                    System.out.println();
                 }
             }
+
         }
+
     }
     public static int addNum(int n,int min){
         if(n==min){
@@ -58,6 +61,6 @@ public class CountContinuous {
         }
     }
     public static void main(String[] args) {
-        geta(31);
+        geta(111);
     }
 }

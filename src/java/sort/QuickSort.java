@@ -10,19 +10,21 @@ public class QuickSort {
         int base = list[left];
         while (left < right) {
             // 从序列右端开始，向左遍历，直到找到小于base的数
-            while (left < right && list[right] >= base)
+            while (left < right && list[right] >= base) {
                 right--;
+            }
             // 找到了比base小的元素，将这个元素放到最左边的位置
             list[left] = list[right];
 
             // 从序列左端开始，向右遍历，直到找到大于base的数
-            while (left < right && list[left] <= base)
+            while (left < right && list[left] <= base) {
                 left++;
+            }
             // 找到了比base大的元素，将这个元素放到最右边的位置
             list[right] = list[left];
         }
 
-        // 最后将base放到left位置。此时，left位置的左侧数值应该都比left小；
+        // 最后将base放到left位置。都比此时，left位置的左侧数值应该left小；
         // 而left位置的右侧数值应该都比left大。
         list[left] = base;
         return left;

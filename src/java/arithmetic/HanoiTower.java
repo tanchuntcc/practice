@@ -7,7 +7,7 @@ package arithmetic;
 public class HanoiTower {
     private static int count = 1;
     public static void main(String[] args) {
-        moved(4, "第一根柱子", "第二根柱子", "第三根柱子");
+        moved(3, "A柱子", "B柱子", "C柱子");
     }
     
     /**
@@ -19,19 +19,15 @@ public class HanoiTower {
      */
     public static void moved(int i,String a,String b,String c){
         if(i == 1){
-            disPaly(1, a, b);
+            System.out.println("将第"+1+"个塔 从 "+a+" 到 "+b);
         }else{
             //将i-1根圆盘由A移动到C
             moved(i-1, a, c, b);
             //将圆盘i 由A移动到B
-            disPaly(i, a, b);
-            //将i-1根圆盘由C移动到A
+            System.out.println("将第"+i+"个塔 从 "+a+" 到 "+b);
+            //将i-1根圆盘由C移动到B
             moved(i-1,c,b,a);
         }
     }
-    
-    public static void disPaly(int i,String a,String b){
-        System.out.println("第"+count+"步：移动第"+i+"个塔从"+a+"到"+b);
-        count++;
-    }
+
 }
