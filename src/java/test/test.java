@@ -17,6 +17,7 @@ public class test {
     }
     public static void main(String[] args) {
         System.out.println(hash(4^(4>>>16)));
+        System.out.println(2);
     }
 }
 

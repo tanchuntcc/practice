@@ -5,7 +5,7 @@ import java.util.Stack;
 /**
  * Created by TanChun on 2019/2/13.
  * 反转链表
- * 思路：先定义号反转后的头节点pRev为null,定义一个存储前一个节点的pPrev为空。定义一个pNode指向pHead
+ * 思路：先定义好反转后的头节点pRev为null,定义一个存储前一个节点的pPrev为空。定义一个pNode指向pHead
  * 循环遍历pNode链表，定义pNext为下一个节点，判断如果pNext为空则为反转后的头节点。  然后将当前节点
  * pNode的下一个节点指向前一个节点pPrev（即为pNode），然后将前一个节点赋值给pPrev，（即将pNode赋值）
  * pPrev,然后将pNode的下一个节点（即为pNext）赋值给pNode实现循环。 最后返回pRev。
