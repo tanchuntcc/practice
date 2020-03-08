@@ -16,8 +16,17 @@ public class test {
         return (h ==0) ? 0 : h ^ (h >>> 16);
     }
     public static void main(String[] args) {
-        System.out.println(hash(4^(4>>>16)));
-        System.out.println(2);
+//        System.out.println(hash(4^(4>>>16)));
+////        System.out.println(2);
+
+
+        int i=1;
+        i=i++;
+        int j=i++;
+        int k=i+ ++i*i++;
+        System.out.println("i="+i);
+        System.out.println("j="+j);
+        System.out.println("k="+k);
     }
 }
 

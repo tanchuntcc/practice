@@ -12,12 +12,12 @@ import java.util.HashMap;
  * 给定 nums = [2, 7, 11, 15], target = 9
  * 因为 nums[0] + nums[1] = 2 + 7 = 9
  * 所以返回 [0, 1]
- * 思路：数组两数之和等于target，相当于target-num[i]的结果也为数组中的数。创建一个hashMap,遍历list时判断map中
+ * 思路：数组两数之hMap,遍历list时判断map中
  * 是否包含 target-num[i]的值，不包含就把值和他的索引i存入map,一直遍历list，就找到结果。
  */
 public class AddTwoNum {
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer,Integer> hashMap = new HashMap<>();
+        HashMap<Integer,Integer> hashMap = new HashMap<>    ();
         int[] ints = new int[2];
         int index=0;
         for (int i=0;i<nums.length;i++){
