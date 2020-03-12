@@ -1,5 +1,7 @@
 package test;
 
+import java.util.LinkedList;
+
 /**
  * @author 谭春
  * Date: 2019/9/23
@@ -7,6 +9,7 @@ package test;
  */
 public class Goto {
     public static void main(String[] args) {
+        LinkedList<Object> objects = new LinkedList<>();
         int i=0;
         outer:
         for(; true; ){
