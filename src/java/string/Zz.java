@@ -26,5 +26,9 @@ public class Zz {
         a1[0] = 4;
         // 6. Sort
         Arrays.sort(a1);
+        String a = new String("a");
+        System.out.println("---------------------------");
+        String s1= "ab" + "cd"; String s2= "abc" + "d";
+        System.out.println(s1 == s2);
     }
 }

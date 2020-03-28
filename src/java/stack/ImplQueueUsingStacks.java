@@ -3,6 +3,7 @@ package stack;
 import java.util.Stack;
 
 /**
+ * 已同步至博客
  * @author 谭春
  * Date: 2020/1/14
  * Description:
@@ -28,18 +29,19 @@ import java.util.Stack;
 public class ImplQueueUsingStacks {
     private Stack<Integer> inputStack;
     private Stack<Integer> outputStack;
-    /** Initialize your data structure here. */
+
     public ImplQueueUsingStacks() {
-         inputStack = new Stack<>();
-         outputStack = new Stack<>();
+        inputStack = new Stack<>();
+        outputStack = new Stack<>();
     }
 
-    /** Push element x to the back of queue. */
+    /**
+     * Push element x to the back of queue.
+     */
     public void push(int x) {
         inputStack.push(x);
     }
 
-    /** Removes the element from in front of queue and returns that element. */
     public int pop() {
         if (outputStack.isEmpty()) {
             while (!inputStack.isEmpty()) {
@@ -49,7 +51,6 @@ public class ImplQueueUsingStacks {
         return outputStack.pop();
     }
 
-    /** Get the front element. */
     public int peek() {
         if (outputStack.isEmpty()) {
             while (!inputStack.isEmpty()) {
@@ -59,7 +60,6 @@ public class ImplQueueUsingStacks {
         return outputStack.peek();
     }
 
-    /** Returns whether the queue is empty. */
     public boolean empty() {
         return inputStack.isEmpty() && outputStack.isEmpty();
     }

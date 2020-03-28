@@ -73,17 +73,33 @@ public class FindKthToTailInLinkList {
     //首先定义两个指向链表头的指针p  ,q;
     // 先令指针q指向第k节点，然后两个指针同时向后移动，
     // 最后q走到最后时p还差k个节点走到最后，即走到倒数第k个节点
-    public ListNode FindKthToTail(ListNode head,int k) { //5,{1,2,3,4,5}
-        ListNode p, q;
-        p = q = head;
-        int i = 0;
-        for (; p != null; i++) {
-            if (i >= k) {
-                q = q.next;
+//    public ListNode FindKthToTail(ListNode head,int k) { //5,{1,2,3,4,5}
+//        ListNode p, q;
+//        p = q = head;
+//        int i = 0;
+//        for (; p != null; i++) {
+//            if (i >= k) {
+//                q = q.next;
+//            }
+//            p = p.next;
+//        }
+//        return i < k ? null : q;
+//    }
+    public ListNode FindKthToTail(ListNode head,int k){
+        ListNode  fast=null;
+        ListNode  slow=null;
+        fast=slow=head;
+        while (fast!=null){
+            fast=fast.next;
+
+            if (k==0){
+                slow=slow.next;
+            }else {
+                k--;
             }
-            p = p.next;
         }
-        return i < k ? null : q;
+        return slow;
     }
+
 }
 

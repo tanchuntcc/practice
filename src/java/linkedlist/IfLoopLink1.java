@@ -1,6 +1,7 @@
 package linkedlist;
 
 /**
+ * 已同步至博客
  * @author 谭春
  * Date: 2020/1/14
  * Description:
@@ -36,5 +37,7 @@ public class IfLoopLink1 {
         return head.next == head;
 
     }
+
+
 }
 

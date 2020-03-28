@@ -5,6 +5,7 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 
 /**
+ * 已同步至博客
  * @author 谭春
  * Date: 2020/1/14
  * Description:使用队列实现栈的下列操作：
@@ -54,4 +55,6 @@ public class ImplStacksUsingQueue {
         return outputQueue.isEmpty();
     }
 }
+
+
 

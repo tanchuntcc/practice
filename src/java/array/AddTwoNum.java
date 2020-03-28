@@ -3,6 +3,7 @@ package array;
 import java.util.HashMap;
 
 /**
+ * 已同步至博客
  * @author 谭春
  * Date: 2020/1/6
  * Description:
@@ -17,13 +18,15 @@ import java.util.HashMap;
  */
 public class AddTwoNum {
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer,Integer> hashMap = new HashMap<>    ();
+        HashMap<Integer,Integer> hashMap = new HashMap<>();
         int[] ints = new int[2];
         int index=0;
         for (int i=0;i<nums.length;i++){
+            //map中是否包含与之和为target的，不包含就将值和索引存入map
             if (!hashMap.containsKey(target-nums[i])) {
                 hashMap.put(nums[i], i);
             }else {
+                //包含就返回这两个数的下标
                 ints[index] = hashMap.get(target - nums[i]);
                 ints[++index] = i;
                 break;
