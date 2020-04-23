@@ -49,8 +49,7 @@ public class SelectionSort {
         for (int i = 0; i < MAX_SIZE; i++) {
             array[i] = random.nextInt(MAX_SIZE);
         }
- 
-        // 调用冒泡排序方法
+
         SelectionSort selection = new SelectionSort();
         System.out.print("排序前:\t");
         selection.printAll(array);

@@ -1,5 +1,7 @@
 package string;
 
+import java.util.concurrent.ConcurrentHashMap;
+
 /**
  * Created by TanChun on 2019/2/13.
  * 比较两个数组中字符是否相同,不管顺序

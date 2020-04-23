@@ -22,6 +22,6 @@ public class CountMax {
         }
 
         System.out.println(map);
-        
+
     }
 }

@@ -1,5 +1,7 @@
 package arithmetic;
 
+import java.util.HashMap;
+
 /**
  * Created by TanChun on 2018/12/12.
  * 给定一个矩阵m，从左上角开始每次只能向右走或者向下走
@@ -15,6 +17,7 @@ public class MinSteps {
         int[][] arr = {{1,9,1,1},{8,10,1,1},{7,6,1,1},{8,9,4,5}};
         steps[3][3] = minSteps(arr, 3, 3);
         print(steps);
+        new HashMap<>();
     }
     
     

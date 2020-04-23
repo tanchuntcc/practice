@@ -33,7 +33,7 @@ public class FindCoutinuousSequence {
 
     public static void main(String[] args) {
         final FindCoutinuousSequence findCoutinuousSequence = new FindCoutinuousSequence();
-        final ArrayList<ArrayList<Integer>> arrayLists = findCoutinuousSequence.FindContinuousSequence(3);
+        final ArrayList<ArrayList<Integer>> arrayLists = findCoutinuousSequence.FindContinuousSequence(6);
         System.out.println(arrayLists);
 
     }

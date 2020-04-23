@@ -1,5 +1,7 @@
 package designpatterns.singleton;
 
+import java.util.concurrent.LinkedBlockingQueue;
+
 /**
  * @author 谭春
  * Date: 2020/3/11
