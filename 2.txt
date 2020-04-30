@@ -1,0 +1,31 @@
+package nio.buffer;
+
+import java.nio.ByteBuffer;
+
+/**
+ * @author 谭春
+ * Date: 2020/4/29
+ * Description:
+ */
+public class BufferDemoTest {
+    public static void main(String[] args) {
+        String str = "abcde";
+        //1. 分配一个指定大小的缓冲区
+        ByteBuffer buf = ByteBuffer.allocate(1024);
+        System.out.println("-----------------allocate()----------------");
+        System.out.println(buf.position());
+        System.out.println(buf.limit());
+        System.out.println(buf.capacity());
+        //2. 利用 put() 存入数据到缓冲区中
+        buf.put(str.getBytes());
+        System.out.println("-----------------put()----------------");
+        System.out.println(buf.position());
+        System.out.println(buf.limit());
+        System.out.println(buf.capacity());
+        //3. 切换读取数据模式
+        buf.flip();
+        System.out.println("-----------------flip()----------------");
+        System.out.println(buf.position());
+        System.out.println(buf.limit());
+        System.out.println(buf.capacity());
+        //4. 利用 get() �
