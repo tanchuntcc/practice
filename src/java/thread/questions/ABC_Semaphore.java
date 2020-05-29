@@ -2,6 +2,10 @@ package thread.questions;
 
 import java.util.concurrent.Semaphore;
 
+/**
+ * @author 谭春
+ * 线程交替执行
+ */
 public class ABC_Semaphore {
     // 以A开始的信号量,初始信号量数量为1
     private static Semaphore A = new Semaphore(1);

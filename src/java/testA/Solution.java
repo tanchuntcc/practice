@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class Solution {
     private  static Integer NUM=10;
-    
+
     public static int findNum(int N) {
         int i=1;
         int res = N;

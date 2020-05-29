@@ -1,8 +1,10 @@
 package thread.questions;
 
+import java.util.HashMap;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
+import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
  * @author 谭春
@@ -10,27 +12,27 @@ import java.util.concurrent.locks.ReentrantLock;
  * Description:
  */
 public class Question2 {
-    static Lock lock1 = new ReentrantLock();
+    Lock lock1 = new ReentrantLock();
     Lock lock2 = new ReentrantLock();
 
     public void s1() throws InterruptedException {
-        System.out.println("同步方法1开始");
+        System.out.println("s1开始");
         lock1.lock();
         Thread.sleep(1000);
         lock2.lock();
         lock1.unlock();
         lock2.unlock();
-        System.out.println("同步方法1结束");
+        System.out.println("s1结束");
     }
 
     public void s2() throws InterruptedException {
-        System.out.println("同步方法2开始");
+        System.out.println("s2开始");
         lock2.lock();
         Thread.sleep(1000);
         lock1.lock();
         lock2.unlock();
         lock1.unlock();
-        System.out.println("同步方法2结束");
+        System.out.println("s2结束");
     }
 
     public static void main(String[] args) {
@@ -42,6 +44,7 @@ public class Question2 {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
+
         }).start();
 
         new Thread(() -> {

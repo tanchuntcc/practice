@@ -23,7 +23,7 @@ public class ToImpRunable implements Runnable{
         thread1.start();
         thread2.start();
 
-            LinkedTransferQueue<String> strs = new LinkedTransferQueue<>();
+        LinkedTransferQueue<String> strs = new LinkedTransferQueue<>();
 
 		new Thread(() -> {
 			try {

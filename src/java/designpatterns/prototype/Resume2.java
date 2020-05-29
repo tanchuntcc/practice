@@ -59,6 +59,7 @@ public class Resume2 implements Cloneable{
             c.setWorkExperience("1899-1998","c汉得");
             b.dispaly();
             c.dispaly();
+            a.dispaly();
         } catch (CloneNotSupportedException e) {
             e.printStackTrace();
         }

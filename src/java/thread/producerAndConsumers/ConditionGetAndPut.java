@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * @author 谭春
  * Date: 2020/3/31
- * Description:
+ * Description:阻塞队列  消费者和生产者
  */
 public class ConditionGetAndPut<T> {
     final private LinkedList<T> lists = new LinkedList<>();
@@ -73,7 +73,7 @@ public class ConditionGetAndPut<T> {
         //启动生产者线程
         for(int i=0; i<2; i++) {
             new Thread(()->{
-                for(int j=0; j<25; j++) c.put(Thread.currentThread().getName() + " " + j);
+                for(int j=0; j<25; j++) c.put("生产者"+Thread.currentThread().getName() + " " + j);
             }, "p" + i).start();
         }
     }

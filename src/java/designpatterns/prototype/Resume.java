@@ -35,7 +35,7 @@ public class Resume implements Cloneable{
         Resume a = new Resume("大鸟");
         a.setPersonalInfo("nan","26");
         a.setWorkExperience("1992-1998","汉得");
-    a.dispaly();
+        a.dispaly();
         try {
             Resume b = (Resume) a.clone();
             b.setWorkExperience("1899-1998","b汉得");
@@ -43,6 +43,7 @@ public class Resume implements Cloneable{
             c.setWorkExperience("1899-1998","c汉得");
             b.dispaly();
             c.dispaly();
+            a.dispaly();
         } catch (CloneNotSupportedException e) {
             e.printStackTrace();
         }

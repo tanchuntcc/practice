@@ -1,6 +1,5 @@
 package designpatterns.singleton;
 
-import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  * @author 谭春
@@ -49,9 +48,9 @@ public class Singleton {
     }
 
     public static Singleton getInstance(){
-        if (singleton!=null){
+        if (singleton==null){
             synchronized (Singleton.class){
-                if (singleton!=null){
+                if (singleton==null){
                     singleton=new Singleton();
                 }
             }

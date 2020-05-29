@@ -6,8 +6,8 @@ package string;
  */
 public class FindString {
     public static void main(String[] args) {
-        String str = "ilovejavajavacdejavailha123java34javali3java@#@R#FDSFAFDAjavai23o2fjai23javii2o3java";
-        String sToFind = "av";
+        String str = "avava";
+        String sToFind = "ava";
         int num = new FindString().countStr(str,sToFind);
         System.out.println("共找到" + num + "个" + sToFind);
     }
@@ -20,7 +20,7 @@ public class FindString {
     private int countStr(String str,String sToFind) {
         int num = 0;
         while (str.contains(sToFind)) {
-            str = str.substring(str.indexOf(sToFind) + sToFind.length());
+            str = str.substring(str.indexOf(sToFind) + 1);
             num ++;
         }
         return num;
