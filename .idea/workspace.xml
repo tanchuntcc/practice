@@ -2,341 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c99fb3d-4c8d-42eb-b0aa-e2d345cb36a6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/testA/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/practice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/arithmetic/Add.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/arithmetic/CalculationSteps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/arithmetic/CountContinuous.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/arithmetic/HanoiTower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/arithmetic/MinSteps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/arithmetic/ShortestDistance$CompareY.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/arithmetic/ShortestDistance$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/arithmetic/ShortestDistance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/arithmetic/TopK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/arithmetic/movingCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/AddThreeNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/AddTwoNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/AddTwoNum2$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/AddTwoNum2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/BinarySystem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/BitMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/ContainsSame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/CountMaxNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/DeleteSame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/Duplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/FindGreatSumOfSubArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/FindNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/FindNumFromStr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/FindNumsAppearOnce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/FindSmall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/GetNumberOfk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/LessCurrentNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/MiddleIndex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/MinIncrementForUnique.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/NumberOf1Between.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/OddAndEvenNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/OrderOneToFive$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/OrderOneToFive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/OverHalfNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/PrintMinNumber$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/PrintMinNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/ReplaceBlank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/Rob.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/Rotate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/SequenceString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/SortArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/TopK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/TwoDimensionalAaary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/hasGroupSizeX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/massage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/array/movingCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/BinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/FFFF$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/FFFF$TreeLinkNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/FFFF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/MaxDepth$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/MaxDepth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/MaxDistance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/PrefixTreeEncoding$Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/PrefixTreeEncoding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/SearchNum$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/SearchNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/binarytree/ValidateBinarySerachTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/decorator/BoDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/decorator/Bread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/decorator/Cream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/decorator/Decorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/decorator/Food.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/decorator/SpanNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/decorator/TextNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/decorator/UiDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/decorator/Vegetable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/factorymethod/AddFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/factorymethod/DivFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/factorymethod/IFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/factorymethod/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/factorymethod/MulFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/factorymethod/Operation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/factorymethod/OperationAdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/factorymethod/OperationDiv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/factorymethod/OperationMul.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/factorymethod/OperationSub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/factorymethod/SubFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/observer/NBAObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/observer/Observer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/observer/Secretary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/observer/StoclObserver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/prototype/Resume.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/prototype/Resume2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/prototype/WorkExprience.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/proxy/GiveGift.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/proxy/PerSuit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/proxy/Proxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/proxy/SchoolGirl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/simplefactory/Operation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/simplefactory/OperationAdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/simplefactory/OperationDiv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/simplefactory/OperationMul.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/simplefactory/OperationSub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/simplefactory/SimpleFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/singleton/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/strategy/CashContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/strategy/CashFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/strategy/Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/strategy/StrategyA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/strategy/StrategyB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/strategy/StrategyC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/template/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/template/TestPaper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/template/TestPaperA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/designpatterns/template/TestPaperB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/hash/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/hash/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/hash/SortMapDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/hash/ValidAnagram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/hash/WorkHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/java8/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/java8/FilterApple$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/java8/FilterApple$AppleFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/java8/FilterApple$GreenAnd150WeightFilet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/java8/FilterApple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/java8/LambdaExpression$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/java8/LambdaExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/java8/LambdaUsage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/java8/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/java8/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/java8/Testa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/java8/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/AddTwoLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/DeleteLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/FastAndSlow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/IfLoopLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/IfLoopLink1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/IntersectionOfTwoLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/IsPalindromeLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/LastReaming.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/LinkedToInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/MergeLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/RemoveDuplicatesLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/RemoveLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/ReverseList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/SingleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/SingleLinkedListDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/linkedlist/SwapLink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/nio/blockingnio/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/nio/blockingnio/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/nio/buffer/BufferDemoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/nio/channel/ChannelDemoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/queueandinn/ArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/queueandinn/ArrayQueueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/queueandinn/CircleArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/queueandinn/CircleArrayQueueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/queueandinn/ImplStacksUsingQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/queueandinn/JudgeSame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/queueandinn/KthLargestElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/queueandinn/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/queueandinn/SlidingWindowMaximum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/queueandinn/TopK$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/queueandinn/TopK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/recursion/MiGong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/recursion/Queue8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/sort/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/sort/HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/sort/InsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/sort/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/sort/ParitySort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/sort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/sort/RadixSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/sort/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/sort/ShellSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/sort/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/stack/ArrayStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/stack/ArrayStack2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/stack/ArrayStackDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/stack/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/stack/ImplQueueUsingStacks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/stack/Trap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/stack/ValidParentheses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/stack/ValidateStackSequences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/AddOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/CountMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/CountNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/FindCenterNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/FindString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/FrequencySort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/JudgeTheSame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/JudgeTwoArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/LongestPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/MinDistance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/Points.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/S.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/Zz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/cmp1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/cmp2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/longestPalindromeTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/string/node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/ConvertBinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/ConvertBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/CopyLinkList$RandomListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/CopyLinkList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/CoverRectangular.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/FibonacciArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/FindCoutinuousSequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/FindFirstCommonNode$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/FindFirstCommonNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/FindFromArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/FindGreatestSumOfSubArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/FindKthToTailInLinkList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/FindKthToTailInLinkList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/FindNumsAppearOnce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/FindPathInBinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/FindPathInBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/FirstNotRepeatingChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/GetLeastNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/GetNumberOfK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/GetUglyNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/IndexCaculate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/InversePairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/IsBanlanced$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/IsBanlanced.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/IsPopOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/IsTheSubTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/IsTheSubTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/JumpStep.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/JumpSteps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/MergeLinkList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/MergeLinkList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/MinInStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/MirrorTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/MirrorTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/MoreThanHalfNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/NumberOfOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/NumberOfOneBetweenOneToN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/Permutation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/PrintBinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/PrintBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/PrintMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/PrintMinNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/QueueWithStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/ReOrderArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/RefactoringBinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/RefactoringBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/ReplaceBlank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/ReverseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/ReverseLinkList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/ReverseLinkList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/SpinString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/TreeDepth$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/TreeDepth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/swordtooffer/VerifySquenceOfBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/Ac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/AnalysisRet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/ArrayTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/Av$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/Av.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/Azz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/Azzz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/BitMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/BloomFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/EventOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/ExceptionA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/ExceptionB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/Goto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/Gz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/HashTab$Emp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/HashTab$EmpLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/HashTab$Hash.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/HashTab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/InnerClass$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/InnerClass$StaticInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/InnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/IsAssignableFromDemo$Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/IsAssignableFromDemo$Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/IsAssignableFromDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/ItsmExceptionCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/NewList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/PartsRet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/RegReturn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/ResponseCodeType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/ResultInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/Search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/StreamDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/TestBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/binarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/er.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/testa$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test/testa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/producerAndConsumers/ConditionGetAndPut.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/producerAndConsumers/GetAndPut.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/producerAndConsumers/TicketSeller2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/producerAndConsumers/WhileFiveBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/producerAndConsumers/WhileFiveBreak2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/questions/ABC_Semaphore$ThreadA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/questions/ABC_Semaphore$ThreadB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/questions/ABC_Semaphore$ThreadC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/questions/ABC_Semaphore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/questions/ExchangeToPrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/questions/Question1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/questions/Question2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/questions/Sz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/questions/ZZZZ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/questions/ZZZZs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/questions/a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/questions/思考题.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/threadcreate/ThreadPoolExecutorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/threadcreate/ToExtendThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/threadcreate/ToImpCallable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/thread/threadcreate/ToImpRunable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/designpatterns/prototype/Resume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/designpatterns/prototype/Resume.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/designpatterns/prototype/Resume2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/designpatterns/prototype/Resume2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/designpatterns/prototype/WorkExprience.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/designpatterns/prototype/WorkExprience.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/designpatterns/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/designpatterns/singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/string/FindString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/string/FindString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/string/S.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/string/Zz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/test/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/test/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/thread/producerAndConsumers/ConditionGetAndPut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/thread/producerAndConsumers/ConditionGetAndPut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/thread/questions/ABC_Semaphore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/thread/questions/ABC_Semaphore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/thread/questions/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/thread/questions/Question2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/thread/questions/ZZZZ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/thread/questions/ZZZZs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/thread/questions/a.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/thread/threadcreate/ToImpRunable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/thread/threadcreate/ToImpRunable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -373,22 +71,17 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-418">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="22">
+              <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.txt">
+      <file leaf-file-name="StringReverse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/string/StringReverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-324">
-              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            <state relative-caret-position="44">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -396,17 +89,17 @@
       <file leaf-file-name="SortMapDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/hash/SortMapDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
+            <state relative-caret-position="528">
+              <caret line="30" column="54" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="A.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java/temptest/A.java">
+      <file leaf-file-name="StringAndInteger.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/temptest/StringAndInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="57" column="75" selection-start-line="57" selection-start-column="75" selection-end-line="57" selection-end-column="75" />
+            <state relative-caret-position="93">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -414,61 +107,65 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EventRelation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/temptest/EventRelation.java">
+      <file leaf-file-name="ToExtendThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/thread/threadcreate/ToExtendThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/temptest/A.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
               <folding>
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ObjectOutputStream.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/ObjectOutputStream.java">
+      <file leaf-file-name="StringDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/string/StringDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="796" column="17" selection-start-line="796" selection-start-column="17" selection-end-line="796" selection-end-column="17" />
+            <state relative-caret-position="154">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bits.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/Bits.java">
+      <file leaf-file-name="DoJson.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/temptest/DoJson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="97" column="16" selection-start-line="97" selection-start-column="16" selection-end-line="97" selection-end-column="16" />
+            <state relative-caret-position="1848">
+              <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClientHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/nio/download/calculator/netty/ClientHandler.java">
+      <file leaf-file-name="SynchronousQueueExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/thread/producerAndConsumers/SynchronousQueueExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            <state relative-caret-position="726">
+              <caret line="39" column="38" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ServerHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/nio/download/calculator/netty/ServerHandler.java">
+      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/test/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-286">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="198">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -485,8 +182,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>hashcode</find>
-      <find>add</find>
       <find>size</find>
       <find>hash</find>
       <find>f</find>
@@ -515,6 +210,8 @@
       <find>value</find>
       <find>write</find>
       <find>thread1</find>
+      <find>eNTRY</find>
+      <find>Node</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -526,10 +223,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java/test/Sfa.java" />
-        <option value="$PROJECT_DIR$/src/java/string/FindString.java" />
-        <option value="$PROJECT_DIR$/src/java/test/A.java" />
-        <option value="$PROJECT_DIR$/src/java/designpatterns/prototype/WorkExprience.java" />
         <option value="$PROJECT_DIR$/src/java/test/IntegerDemo.java" />
         <option value="$PROJECT_DIR$/src/java/nio/calculator/netty/ServerHandler.java" />
         <option value="$PROJECT_DIR$/src/java/nio/download/calculator/netty/ServerHandler.java" />
@@ -573,10 +266,14 @@
         <option value="$PROJECT_DIR$/src/java/nio/download/calculator/aio/client/AsyncClientHandler.java" />
         <option value="$PROJECT_DIR$/src/java/thread/questions/CountDownLatchDemo.java" />
         <option value="$PROJECT_DIR$/src/java/thread/questions/CyclicBarrierDemo.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/java/TccApplication.java" />
         <option value="$PROJECT_DIR$/src/java/temptest/EventRelation.java" />
         <option value="$PROJECT_DIR$/src/java/temptest/A.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/java/temptest/DoJson.java" />
+        <option value="$PROJECT_DIR$/src/java/temptest/SynchronousQueueExample.java" />
+        <option value="$PROJECT_DIR$/src/java/thread/producerAndConsumers/SynchronousQueueExample.java" />
+        <option value="$PROJECT_DIR$/src/java/temptest/StringAndInteger.java" />
       </list>
     </option>
   </component>
@@ -614,9 +311,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
-    <option name="y" value="12" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-67" />
     <option name="width" value="1386" />
     <option name="height" value="765" />
   </component>
@@ -629,7 +325,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -653,13 +349,20 @@
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="temptest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -707,7 +410,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.A">
+  <component name="RunManager" selected="Application.StringAndInteger">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="temptest.A" />
       <module name="practice" />
@@ -715,17 +418,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="temptest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.questions.CountDownLatchDemo" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -741,24 +433,35 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Resume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpatterns.prototype.Resume" />
+    <configuration name="DoJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temptest.DoJson" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpatterns.prototype.*" />
+          <option name="PATTERN" value="temptest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.questions.Test8" />
+    <configuration name="StringAndInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temptest.StringAndInteger" />
       <module name="practice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.questions.*" />
+          <option name="PATTERN" value="temptest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SynchronousQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.producerAndConsumers.SynchronousQueueExample" />
+      <module name="practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.producerAndConsumers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -810,19 +513,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.TccApplication" />
-      <item itemvalue="Application.Resume" />
-      <item itemvalue="Application.CountDownLatchDemo" />
-      <item itemvalue="Application.Test8" />
       <item itemvalue="Application.CyclicBarrierDemo" />
       <item itemvalue="Application.A" />
+      <item itemvalue="Application.DoJson" />
+      <item itemvalue="Application.SynchronousQueueExample" />
+      <item itemvalue="Application.StringAndInteger" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringAndInteger" />
+        <item itemvalue="Application.SynchronousQueueExample" />
+        <item itemvalue="Application.DoJson" />
         <item itemvalue="Application.A" />
         <item itemvalue="Application.CyclicBarrierDemo" />
-        <item itemvalue="Application.CountDownLatchDemo" />
-        <item itemvalue="Application.Test8" />
-        <item itemvalue="Application.Resume" />
       </list>
     </recent_temporary>
   </component>
@@ -945,11 +648,15 @@
       <workItem from="1590397148816" duration="11440000" />
       <workItem from="1590542315800" duration="10953000" />
       <workItem from="1590629813855" duration="17414000" />
+      <workItem from="1590742182774" duration="611000" />
+      <workItem from="1590993744677" duration="7261000" />
+      <workItem from="1591254948917" duration="8022000" />
+      <workItem from="1591580161813" duration="1481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="863873000" />
+    <option name="totallyTimeSpent" value="881248000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -961,7 +668,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.16263238" side_tool="true" weight="0.16267942" />
@@ -976,24 +683,24 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49167928" weight="0.11755233" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32854864" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49834985" weight="0.2415459" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32850242" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.83741647" weight="0.136876" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.83736765" weight="0.5024155" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4961637" visible="true" weight="0.09001513" />
-      <window_info anchor="right" id="Bean Validation" />
-      <window_info id="Web" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.47181964" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.83741647" weight="0.3494364" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.83736765" visible="true" weight="0.6505636" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4961637" visible="true" weight="0.18683812" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="right" id="SciView" order="10" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49834985" weight="0.2415459" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.47181964" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1003,32 +710,32 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32996207" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8558909" visible="true" weight="0.058637083" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49834985" weight="0.32252836" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24981076" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4961637" weight="0.34469327" />
       <window_info id="Structure" order="1" sideWeight="0.50383633" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24981076" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info id="Favorites" order="6" side_tool="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="5" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.21272728" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="MyBatis Log" order="12" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.080906145" />
       <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49319214" weight="0.2998405" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.14410906" side_tool="true" visible="true" weight="0.058637083" />
       <window_info id="Capture Tool" order="4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32996207" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.21272728" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49834985" weight="0.32252836" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32897958" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4961637" weight="0.34469327" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.32911393" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1363,77 +1070,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java/designpatterns/simplefactory/OperationMul.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/designpatterns/simplefactory/OperationSub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/designpatterns/simplefactory/OperationDiv.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/designpatterns/simplefactory/SimpleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-176">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/designpatterns/simplefactory/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/designpatterns/factorymethod/OperationMul.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/designpatterns/factorymethod/OperationSub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/designpatterns/factorymethod/SubFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/designpatterns/factorymethod/OperationDiv.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/designpatterns/factorymethod/Operation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -1445,10 +1081,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1463,10 +1095,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1488,10 +1116,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1513,10 +1137,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
-          <folding>
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1524,9 +1144,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1646,36 +1263,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/nio/download/calculator/netty/ServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-286">
+        <state relative-caret-position="44">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/TccApplication.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/TccApplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/resources/application.properties" />
     <entry file="file://$PROJECT_DIR$/src/java/nio/download/calculator/netty/ClientHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-418">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1684,29 +1287,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324">
+        <state relative-caret-position="44">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/Bits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="1452">
           <caret line="97" column="16" selection-start-line="97" selection-start-column="16" selection-end-line="97" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/ObjectOutputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="16764">
           <caret line="796" column="17" selection-start-line="796" selection-start-column="17" selection-end-line="796" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/temp.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/sort/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/temptest/EventRelation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="1787" column="39" lean-forward="true" selection-start-line="1787" selection-start-column="39" selection-end-line="1787" selection-end-column="39" />
+        <state relative-caret-position="84">
+          <caret line="274" column="7" selection-start-line="274" selection-start-column="7" selection-end-line="274" selection-end-column="7" />
           <folding>
             <element signature="e#19327#19328#0" expanded="true" />
             <element signature="e#19410#19411#0" expanded="true" />
@@ -1714,41 +1326,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/temp.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/hash/SortMapDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/java/test/A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="58" column="42" selection-start-line="58" selection-start-column="42" selection-end-line="58" selection-end-column="42" />
+        <state relative-caret-position="198">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/temptest/EventRelation.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="22">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/temptest/SynchronousQueueExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/java/temptest/DoJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="40" />
           <folding>
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/thread/producerAndConsumers/SynchronousQueueExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/thread/threadcreate/ToExtendThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/temptest/A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="57" column="75" selection-start-line="57" selection-start-column="75" selection-end-line="57" selection-end-column="75" />
+        <state relative-caret-position="264">
+          <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/string/StringDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/string/StringReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/hash/SortMapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="30" column="54" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/temptest/StringAndInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
